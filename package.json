@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://reedlex98.github.io/CRUDReactBackend/db.json",
+  "homepage": "https://reedlex98.github.io/CRUDReactBackend/",
   "scripts": {
     "start": "json-server --watch db.json --port 3001"
   },
