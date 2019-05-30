@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://reedlex98.github.io/CRUDReactBackend",
+  "homepage": "https://reedlex98.github.io/CRUDReactBackend/db.json",
   "scripts": {
-    "start": "json-server --watch db.json --port 3001",
-    "deploy": "gh-pages -d build"
+    "start": "json-server --watch db.json --port 3001"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "json-server": "0.13.0"
   }
 }
